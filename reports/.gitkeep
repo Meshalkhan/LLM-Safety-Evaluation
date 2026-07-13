@@ -1,0 +1,2 @@
+# Evaluation reports are written here at runtime.
+# Each run creates a subdirectory: reports/<run_id>/

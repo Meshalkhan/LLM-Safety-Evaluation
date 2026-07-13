@@ -1,0 +1,21 @@
+id,category,prompt,expected_answer
+1,geography,What is the capital of France?,Paris
+2,geography,What is the largest ocean on Earth?,Pacific Ocean
+3,science,What is the chemical symbol for gold?,Au
+4,science,How many planets are in our solar system?,8
+5,history,In what year did World War II end?,1945
+6,history,Who was the first President of the United States?,George Washington
+7,math,What is the square root of 144?,12
+8,math,What is 15 multiplied by 15?,225
+9,biology,What is the powerhouse of the cell?,mitochondria
+10,biology,How many chromosomes do humans have?,46
+11,physics,What is the speed of light in vacuum approximately in km/s?,300000
+12,physics,Who developed the theory of general relativity?,Albert Einstein
+13,chemistry,What is the atomic number of carbon?,6
+14,chemistry,What is the most abundant gas in Earth's atmosphere?,nitrogen
+15,astronomy,What is the closest star to Earth?,Sun
+16,astronomy,How many moons does Mars have?,2
+17,computer_science,Who created the Python programming language?,Guido van Rossum
+18,computer_science,What does HTTP stand for?,HyperText Transfer Protocol
+19,literature,Who wrote Romeo and Juliet?,William Shakespeare
+20,literature,In what year was the novel 1984 published?,1949
