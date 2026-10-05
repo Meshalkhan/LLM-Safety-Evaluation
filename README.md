@@ -237,7 +237,3 @@ For production deployments, consider augmenting heuristics with:
 - [ ] Web UI for browsing historical reports
 - [ ] Support for local models via Ollama / vLLM
 - [ ] Statistical significance testing across runs
-
-## License
-
-MIT
